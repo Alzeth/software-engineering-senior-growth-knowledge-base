@@ -19,7 +19,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 7. [JavaScript Map, Reduce, and Filter - JS Array Functions Explained with Code Examples](https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/)
 8. [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 
-##Communication protocols
+## Communication protocols
 1. [What Happens When You Type in a URL](https://wsvincent.com/what-happens-when-url/)
 2. [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
 3. [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
