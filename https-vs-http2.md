@@ -40,3 +40,5 @@ It will stand you in good stead.
 [2]: https://stackoverflow.com/questions/36517829/what-does-multiplexing-mean-in-http-2/
 [3]: https://w3techs.com/technologies/details/ce-http2/all/all
 [4]: https://httparchive.org/reports/state-of-the-web#h2
+
+> <https://stackoverflow.com/questions/53488601/what-is-difference-between-https-and-http-2>
