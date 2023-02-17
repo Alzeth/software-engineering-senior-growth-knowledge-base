@@ -1,5 +1,3 @@
-I do not believe the points you state above are really drawbacks of a RESTful API. More analytically:
-
 __REST-ful API unnecessarily exposes models__
 
 No models are exposed. Everything is handled by a single controller. The only thing that is exposed to the user is the route of the appropriate controller.
@@ -16,3 +14,5 @@ however complex it may be, before updating your model.
 
 Finally, I believe that a RESTful API is only as good as its implementation. Furthermore, I believe that if you wanted to find a flaw to the REST
 technique is the fact that you cannot initiate transactions or push notifications server-side
+
+> <https://stackoverflow.com/questions/31164701/are-these-valid-disadvantages-of-a-rest-ful-api>
