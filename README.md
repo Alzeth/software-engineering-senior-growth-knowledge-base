@@ -19,6 +19,15 @@ All you need to know to become a Senior Software Engineer in JavaScript
 7. [JavaScript Map, Reduce, and Filter - JS Array Functions Explained with Code Examples](https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/)
 8. [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 
+##Communication protocols
+1. [https://wsvincent.com/what-happens-when-url/](https://wsvincent.com/what-happens-when-url/)
+2. [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+3. [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
+4. [Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+5. [Consumer-Driven Contracts: A Service Evolution Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html)
+6. [Removing HTTP/2 Server Push from Chrome](https://developer.chrome.com/blog/removing-push/)
+7. 
+8. 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
