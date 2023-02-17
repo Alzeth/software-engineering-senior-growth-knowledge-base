@@ -26,7 +26,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 4. [Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
 5. [Consumer-Driven Contracts: A Service Evolution Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html)
 6. [Removing HTTP/2 Server Push from Chrome](https://developer.chrome.com/blog/removing-push/)
-7. 
+7. [What is difference between HTTPS and HTTP/2?](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/https-vs-http2.md)
 8. 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
