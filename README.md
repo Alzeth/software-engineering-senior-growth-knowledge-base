@@ -48,3 +48,11 @@ All you need to know to become a Senior Software Engineer in JavaScript
 26. [What Is JSON RPC?](https://www.wallarm.com/what/what-is-json-rpc)
 27. [GraphQL](https://graphql.org/)
 28. [GraphQL disadvantages](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/GRAPHQL-DISADVANTAGES.md)
+
+## Programming Paradigms
+
+1. [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
+2. [Composition vs Inheritance](https://www.digitalocean.com/community/tutorials/composition-vs-inheritance)
+3. [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+4. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+5. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
