@@ -56,3 +56,21 @@ All you need to know to become a Senior Software Engineer in JavaScript
 3. [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 4. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 5. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+
+## Security
+
+1. [Web security](https://developer.mozilla.org/en-US/docs/Web/Security)
+2. [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+3. [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+4. [Preflight request](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)
+5. [Same-origin policy (SOP)](https://portswigger.net/web-security/cors/same-origin-policy)
+6. [Cross-site scripting (XSS)](https://portswigger.net/web-security/cross-site-scripting)
+7. [Man in the Middle (MITM) Attacks](https://www.rapid7.com/fundamentals/man-in-the-middle-attacks/)
+8. [What is single sign-on (SSO)?](https://www.citrix.com/solutions/secure-access/what-is-single-sign-on-sso.html)
+9. [CORS (Cross-Origin Resource Sharing)](https://developer.mozilla.org/en-US/docs/Glossary/CORS)
+10. [Excess XSS](https://excess-xss.com/)
+11. [Refresh access tokens](https://developer.okta.com/docs/guides/refresh-tokens/main/)
+12. [Secure Software Development Lifecycle (SSDLC)](https://snyk.io/learn/secure-sdlc/)
+13. [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
+14. [Stateful and stateless authentication](https://medium.com/@kennch/stateful-and-stateless-authentication-10aa3e3d4986)
+15. [Costs and benefits of authentication](https://www.miteksystems.com/blog/costs-and-benefits-of-authentication)
