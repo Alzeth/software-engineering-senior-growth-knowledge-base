@@ -2,14 +2,14 @@
 All you need to know to become a Senior Software Engineer in JavaScript
 
 
-## Software Engineering Knowledge & Experience
+## :student: Software Engineering Knowledge & Experience
 1. [Data structures](https://www.geeksforgeeks.org/data-structures/)
 2. [Containerization vs. Virtualization: What's the Difference?](https://www.burwood.com/blog-archive/containerization-vs-virtualization)
 3. [Virtualization technologies compared](https://www.computerworld.com/article/2528781/virtualization-technologies-compared.html)
 4. [Containerization Technology: Types, Advantages, Applications, and More](https://www.simform.com/blog/containerization-technology/)
 5. [Best Application Deployment Strategies in 2023](https://www.techmagic.co/blog/best-application-deployment-strategies/)
 
-## Computer Science
+## :desktop_computer: Computer Science
 1. [Currying](https://javascript.info/currying-partials)
 2. [Lodash _.curry() Method](https://www.geeksforgeeks.org/lodash-_-curry-method/)
 3. [Discover the power of first class functions](https://www.freecodecamp.org/news/discover-the-power-of-first-class-functions-fd0d7b599b69/#:~:text=In%20JavaScript%2C%20functions%20are%20first,returned%20from%20a%20function)
@@ -19,7 +19,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 7. [JavaScript Map, Reduce, and Filter - JS Array Functions Explained with Code Examples](https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/)
 8. [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 
-## Communication protocols
+## :repeat: Communication protocols
 1. [What Happens When You Type in a URL](https://wsvincent.com/what-happens-when-url/)
 2. [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
 3. [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
@@ -49,7 +49,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 27. [GraphQL](https://graphql.org/)
 28. [GraphQL disadvantages](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/GRAPHQL-DISADVANTAGES.md)
 
-## Programming Paradigms
+## :desktop_computer: Programming Paradigms
 
 1. [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 2. [Composition vs Inheritance](https://www.digitalocean.com/community/tutorials/composition-vs-inheritance)
@@ -57,7 +57,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 4. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 5. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 
-## Security
+## :closed_lock_with_key: Security
 
 1. [Web security](https://developer.mozilla.org/en-US/docs/Web/Security)
 2. [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
