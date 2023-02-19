@@ -74,3 +74,13 @@ All you need to know to become a Senior Software Engineer in JavaScript
 13. [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
 14. [Stateful and stateless authentication](https://medium.com/@kennch/stateful-and-stateless-authentication-10aa3e3d4986)
 15. [Costs and benefits of authentication](https://www.miteksystems.com/blog/costs-and-benefits-of-authentication)
+
+## :keyboard: Accessibility
+
+1. [Accessibility (A11Y)](https://medium.com/front-end-weekly/accessibility-a11y-b4c6afcb5f)
+2. [Accessibility Checklist](https://www.washington.edu/accessibility/checklist/)
+3. [Section 508: What It Covers and How to Comply](https://www.levelaccess.com/blog/508-compliance)
+4. [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+5. [2022 ADA Website Requirements & WCAG Compliance Standards for Websites](https://www.accessibility.works/blog/2023-wcag-ada-website-compliance-standards-requirements/)
+6. [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+7. [WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org/)
