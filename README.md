@@ -108,3 +108,17 @@ All you need to know to become a Senior Software Engineer in JavaScript
 19. [How to Break Up an Expensive Computation Task in JavaScript](https://javascript.plainenglish.io/how-to-break-up-an-expensive-computation-task-in-javascript-446801d646ca)
 20. [Synthetic vs. Real-User Monitoring: How to Improve Your Customer Experience](https://newrelic.com/blog/best-practices/synthetic-versus-real-user-monitoring)
 21. [Before You memo()](https://overreacted.io/before-you-memo/)
+
+## :toolbox: Browser APIs
+
+1. [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
+2. [Creating and triggering events](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events)
+3. [WebRTC API](https://developer.mozilla.org/ru/docs/Web/API/WebRTC_API)
+4. [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
+5. [FileSystem](https://developer.mozilla.org/en-US/docs/Web/API/FileSystem)
+6. [The ultimate guide to iframes](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
+7. [Page Lifecycle API](https://developer.chrome.com/blog/page-lifecycle-api/)
+8. [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+9. [Capture audio and video in HTML5](https://web.dev/getusermedia-intro/)
+10. [MediaDevices.getUserMedia()](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
+11. [Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
