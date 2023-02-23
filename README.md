@@ -122,3 +122,22 @@ All you need to know to become a Senior Software Engineer in JavaScript
 9. [Capture audio and video in HTML5](https://web.dev/getusermedia-intro/)
 10. [MediaDevices.getUserMedia()](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 11. [Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+
+## <img height="24" width="24" src="https://cdn.simpleicons.org/javascript" /> JavaScript Advanced
+
+1. [Objects — Writable, Configurable & Enumerable](https://medium.com/@ayusharma.in/objects-writable-configurable-enumerable-365cdff6a408)
+2. [Property flags and descriptors](https://javascript.info/property-descriptors)
+3. [JavaScript Constructor Function](https://www.programiz.com/javascript/constructor-function)
+4. [Property getters and setters](https://javascript.info/property-accessors)
+5. [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://javascript.plainenglish.io/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
+6. [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+7. [A deep dive into ES6 Classes](https://dev.to/mustapha/a-deep-dive-into-es6-classes-2h52)
+8. [Novice to Advanced RegEx in Nine Minutes or Less](https://towardsdatascience.com/novice-to-advanced-regex-in-nine-minutes-or-less-6af45a1df8c8)
+9. [Binding Arguments with Bind](https://davidwalsh.name/bind-arguments)
+10. [JavaScript patterns](https://github.com/shichuan/javascript-patterns)
+11. [Using Method Chaining With The Revealing Module Pattern In JavaScript](https://www.bennadel.com/blog/2798-using-method-chaining-with-the-revealing-module-pattern-in-javascript.htm)
+12. [Currying in JavaScript](https://dev.to/cglikpo/currying-in-javascript-1jke)
+13. [Recursion vs Iteration](https://pages.cs.wisc.edu/~vernon/cs367/notes/6.RECURSION.html#iter)
+14. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+15. [How To Write Fast, Memory-Efficient JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
+16. [Memorization in JavaScript](https://medium.com/@saravanaeswari22/memorization-in-javascript-f312d66402b2)
