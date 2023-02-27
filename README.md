@@ -151,3 +151,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 5. [Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
 6. [TypeScript: Adding Custom Type Definitions for Existing Libraries](https://www.credera.com/insights/typescript-adding-custom-type-definitions-for-existing-libraries)
 7. [Flow vs TypeScript: Which Is Better Suited For Your Next Project?](https://www.scalablepath.com/javascript/flow-vs-typescript)
+
+## <img height="24" width="24" src="https://cdn.simpleicons.org/angular" /> Angular Advanced
+
+1. [Angular microsyntax gramar](https://gist.github.com/mhevery/d3530294cff2e4a1b3fe15ff75d08855)
