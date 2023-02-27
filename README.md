@@ -141,3 +141,13 @@ All you need to know to become a Senior Software Engineer in JavaScript
 14. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 15. [How To Write Fast, Memory-Efficient JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
 16. [Memorization in JavaScript](https://medium.com/@saravanaeswari22/memorization-in-javascript-f312d66402b2)
+
+## <img height="24" width="24" src="https://cdn.simpleicons.org/typescript" /> TypeScript
+
+1. [How To Set Up a New TypeScript Project](https://www.digitalocean.com/community/tutorials/typescript-new-project)
+2. [Setting up a TypeScript Project plus Prettier and ESLint](https://medium.com/codex/how-to-set-up-a-typescript-project-2022-2d06ddbe3f17)
+3. [Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+4. [Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
+5. [Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
+6. [TypeScript: Adding Custom Type Definitions for Existing Libraries](https://www.credera.com/insights/typescript-adding-custom-type-definitions-for-existing-libraries)
+7. [Flow vs TypeScript: Which Is Better Suited For Your Next Project?](https://www.scalablepath.com/javascript/flow-vs-typescript)
