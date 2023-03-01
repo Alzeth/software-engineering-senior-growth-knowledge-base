@@ -191,3 +191,9 @@ All you need to know to become a Senior Software Engineer in JavaScript
 34. [The Complete Guide To Angular Performance Tuning](https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/)
 35. [DevTools Overview](https://angular.io/guide/devtools)
 36. [4 Runtime Performance Optimizations](https://www.youtube.com/watch?v=f8sA-i6gkGQ)
+
+## <img height="24" width="24" src="https://cdn.simpleicons.org/react" /> React Advanced
+
+1. [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/)
+2. [Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
+3. [The difference between Flux and Redux](https://medium.com/edge-coders/the-difference-between-flux-and-redux-71d31b118c1)
