@@ -152,6 +152,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 6. [TypeScript: Adding Custom Type Definitions for Existing Libraries](https://www.credera.com/insights/typescript-adding-custom-type-definitions-for-existing-libraries)
 7. [Flow vs TypeScript: Which Is Better Suited For Your Next Project?](https://www.scalablepath.com/javascript/flow-vs-typescript)
 8. [Advanced TypeScript With Code Challenges: Generics](https://medium.com/@mariusbongarts/advanced-typescript-generics-1b30d6b5dd49)
+9. [How to use type guards in TypeScript](https://blog.logrocket.com/how-to-use-type-guards-typescript/)
 
 ## <img height="24" width="24" src="https://cdn.simpleicons.org/angular" /> Angular Advanced
 
@@ -165,3 +166,19 @@ All you need to know to become a Senior Software Engineer in JavaScript
 8. [Route preloading strategies in Angular](https://web.dev/route-preloading-in-angular/)
 9. [The Angular 10/9 Router-Outlets: Named and Multiple Outlets (Auxiliary Routes) Example](https://www.techiediaries.com/angular-router-multiple-outlets/)
 10. [Angular Debugging "Expression has changed after it was checked": Simple Explanation (and Fix)](https://blog.angular-university.io/angular-debugging/)
+11. [AfterContentChecked](https://angular.io/api/core/AfterContentChecked)
+12. [AfterViewChecked](https://angular.io/api/core/AfterViewChecked)
+13. [DoCheck](https://angular.io/api/core/DoCheck)
+14. [Multi Providers in Angular](https://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html)
+15. [When to use viewProviders in Angular – Simplified](https://debugmode.net/2020/06/24/when-to-use-viewproviders-in-angular-simplified/)
+16. [The magic of RXJS sharing operators and their differences](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
+17. [How `runOutsideAngular` might reduce change detection calls in your app](https://medium.com/@krzysztof.grzybek89/how-runoutsideangular-might-reduce-change-detection-calls-in-your-app-6b4dab6e374d)
+18. [Angular 9 Renderer2 with Directives Tutorial by Example](https://www.techiediaries.com/angular/angular-9-renderer2-directives-tutorial-example/)
+19. [In-Depth guide into animations in Angular](https://indepth.dev/posts/1285/in-depth-guide-into-animations-in-angular)
+20. [Understanding Angular Views](https://javascript.plainenglish.io/views-in-angular-390c3906b988)
+21. [How to build an Angular App with Server-Side Rendering]([https://www.bacancytechnology.com/blog/angular-universal](https://medium.com/upstate-interactive/how-to-build-an-angular-app-with-server-side-rendering-f7f415b851c8)
+22. [How To Use Internationalization (i18n) in Angular](https://www.digitalocean.com/community/tutorials/angular-internationalization)
+23. [Angular Service Worker - Step-By-Step Guide for turning your Application into a PWA](https://blog.angular-university.io/angular-service-worker/)
+24. [Web Workers in Angular](https://medium.com/codex/web-workers-in-angular-99fc4dac1d40)
+25. [RxJS Schedulers](https://dev.to/this-is-learning/rxjs-schedulers-2fhl)
+26. [Angular Custom Form Controls: Complete Guide](https://blog.angular-university.io/angular-custom-form-controls/)
