@@ -176,7 +176,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 18. [Angular 9 Renderer2 with Directives Tutorial by Example](https://www.techiediaries.com/angular/angular-9-renderer2-directives-tutorial-example/)
 19. [In-Depth guide into animations in Angular](https://indepth.dev/posts/1285/in-depth-guide-into-animations-in-angular)
 20. [Understanding Angular Views](https://javascript.plainenglish.io/views-in-angular-390c3906b988)
-21. [How to build an Angular App with Server-Side Rendering]([https://www.bacancytechnology.com/blog/angular-universal](https://medium.com/upstate-interactive/how-to-build-an-angular-app-with-server-side-rendering-f7f415b851c8)
+21. [How to build an Angular App with Server-Side Rendering](https://www.bacancytechnology.com/blog/angular-universal](https://medium.com/upstate-interactive/how-to-build-an-angular-app-with-server-side-rendering-f7f415b851c8)
 22. [How To Use Internationalization (i18n) in Angular](https://www.digitalocean.com/community/tutorials/angular-internationalization)
 23. [Angular Service Worker - Step-By-Step Guide for turning your Application into a PWA](https://blog.angular-university.io/angular-service-worker/)
 24. [Web Workers in Angular](https://medium.com/codex/web-workers-in-angular-99fc4dac1d40)
