@@ -151,7 +151,17 @@ All you need to know to become a Senior Software Engineer in JavaScript
 5. [Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
 6. [TypeScript: Adding Custom Type Definitions for Existing Libraries](https://www.credera.com/insights/typescript-adding-custom-type-definitions-for-existing-libraries)
 7. [Flow vs TypeScript: Which Is Better Suited For Your Next Project?](https://www.scalablepath.com/javascript/flow-vs-typescript)
+8. [Advanced TypeScript With Code Challenges: Generics](https://medium.com/@mariusbongarts/advanced-typescript-generics-1b30d6b5dd49)
 
 ## <img height="24" width="24" src="https://cdn.simpleicons.org/angular" /> Angular Advanced
 
 1. [Angular microsyntax gramar](https://gist.github.com/mhevery/d3530294cff2e4a1b3fe15ff75d08855)
+2. [Introduction to ng-template in Angular](https://flexiple.com/angular/ng-template/)
+3. [The Last Guide For Angular Change Detection You'll Ever Need](https://mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
+4. [Angular Services, providedIn and Lazy Modules](https://juristr.com/blog/2021/04/angular-di-and-lazy-modules/)
+5. [Angular Routing Events](https://medium.com/@TheAkshayKolte/angular-routing-events-e914478c9c)
+6. [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+7. [Angulars RouteReuseStrategy](https://www.auroria.io/angular-route-reuse-strategy/)
+8. [Route preloading strategies in Angular](https://web.dev/route-preloading-in-angular/)
+9. [The Angular 10/9 Router-Outlets: Named and Multiple Outlets (Auxiliary Routes) Example](https://www.techiediaries.com/angular-router-multiple-outlets/)
+10. [Angular Debugging "Expression has changed after it was checked": Simple Explanation (and Fix)](https://blog.angular-university.io/angular-debugging/)
