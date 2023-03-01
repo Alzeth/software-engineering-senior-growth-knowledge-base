@@ -197,3 +197,20 @@ All you need to know to become a Senior Software Engineer in JavaScript
 1. [Virtual scrolling: Core principles and basic implementation in React](https://blog.logrocket.com/virtual-scrolling-core-principles-and-basic-implementation-in-react/)
 2. [Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
 3. [The difference between Flux and Redux](https://medium.com/edge-coders/the-difference-between-flux-and-redux-71d31b118c1)
+
+## <img height="24" width="24" src="https://cdn0.iconfinder.com/data/icons/editorial-darkmode/24/editorial_html-512.png" /> Web Application Design and Framework
+
+1. [Angular vs React: Which One to Choose for Your App](https://www.freecodecamp.org/news/angular-vs-react-what-to-choose-for-your-app-2/)
+2. [SPA vs. MPA: Pros, Cons & How To Make Final Choice](https://www.simicart.com/blog/spa-vs-mpa/)
+3. [Angular vs React: a comparison of both frameworks](https://www.imaginarycloud.com/blog/angular-vs-react/)
+4. [Progressive Web Apps: Core Features, Architecture, Pros and Cons](https://www.altexsoft.com/blog/engineering/progressive-web-apps/)
+5. [15 Important Considerations for Choosing A Web Dev Framework](https://code.tutsplus.com/tutorials/15-important-considerations-for-choosing-a-web-dev-framework--net-8035)
+6. [Incremental Static Regeneration](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration)
+7. [SPA and Server-Side Rendering](https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=en)
+8. [Guide to Monorepos for Front-end Code](https://www.toptal.com/front-end/guide-to-monorepos)
+9. [JS Frameworks Benchmark](https://krausest.github.io/js-framework-benchmark/current.html)
+10. [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+11. [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+12. [CSS Methodologies rankings](https://2020.stateofcss.com/en-US/technologies/methodologies/)
+13. [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
+14. [5 Methodologies for Architecting CSS](https://www.valoremreply.com/post/5_css_methodologies/)
