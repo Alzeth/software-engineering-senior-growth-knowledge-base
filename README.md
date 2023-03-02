@@ -214,3 +214,12 @@ All you need to know to become a Senior Software Engineer in JavaScript
 12. [CSS Methodologies rankings](https://2020.stateofcss.com/en-US/technologies/methodologies/)
 13. [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
 14. [5 Methodologies for Architecting CSS](https://www.valoremreply.com/post/5_css_methodologies/)
+
+## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/business-456/500/processing-1024.png" /> Design Patterns
+
+1. [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
+2. [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+3. [JavaScript Patterns Collection](https://shichuan.github.io/javascript-patterns/)
+4. [Design Patterns JS](https://github.com/fbeline/design-patterns-JS/blob/master/docs.md)
+5. [SOLID Design Principles Explained](https://stackify.com/solid-design-principles/)
+6. [Relation between CommonJS, AMD and RequireJS?](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/COMMONJS-vs-AMD-vs-REQUIREJS.md)
