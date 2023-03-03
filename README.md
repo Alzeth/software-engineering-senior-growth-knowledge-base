@@ -2,7 +2,7 @@
 All you need to know to become a Senior Software Engineer in JavaScript
 
 
-## :student: Software Engineering Knowledge & Experience
+## <img height="24" width="24" src="https://cdn0.iconfinder.com/data/icons/coding-33/24/guide_syllabus_book_source_code_source_code_knowledge_slash_programming_software-1024.png" /> Software Engineering Knowledge & Experience
 1. [Data structures](https://www.geeksforgeeks.org/data-structures/)
 2. [Containerization vs. Virtualization: What's the Difference?](https://www.burwood.com/blog-archive/containerization-vs-virtualization)
 3. [Virtualization technologies compared](https://www.computerworld.com/article/2528781/virtualization-technologies-compared.html)
