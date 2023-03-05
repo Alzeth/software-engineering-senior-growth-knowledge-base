@@ -233,3 +233,13 @@ All you need to know to become a Senior Software Engineer in JavaScript
 5. [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 6. [Continuous integration vs. delivery vs. deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 7. [Deployment and release strategies](https://docs.launchdarkly.com/guides/infrastructure/deployment-strategies)
+
+## <img height="24" width="24" src="https://cdn2.iconfinder.com/data/icons/free-simple-line-mix/48/13-Wall-1024.png" /> Architecture
+
+1. [Software Architecture Guide](https://martinfowler.com/architecture/)
+2. [Separation of Concerns](https://medium.com/machine-words/separation-of-concerns-1d735b703a60)
+3. [Why is the difference between functional and Non-functional requirements important?](https://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/#:~:text=Simply%20put%2C%20the%20difference%20is,what%20the%20system%20should%20do.&text=One%20could%20also%20think%20of,attributes%20for%20of%20a%20system)
+4. [What are Functional and Non-Functional Requirements and How to Document These](https://enkonix.com/blog/functional-requirements-vs-non-functional/)
+5. [Non-functional Requirements: Examples, Types, How to Approach](https://www.altexsoft.com/blog/non-functional-requirements/)
+6. [How To Write Great Software Requirements Specification?](https://reqtest.com/requirements-blog/software-requirements-specification/)
+7. [7 Tips to Write Better User Stories](https://reqtest.com/agile-blog/better-user-stories/)
