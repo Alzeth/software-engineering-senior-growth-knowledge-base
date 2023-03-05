@@ -243,3 +243,9 @@ All you need to know to become a Senior Software Engineer in JavaScript
 5. [Non-functional Requirements: Examples, Types, How to Approach](https://www.altexsoft.com/blog/non-functional-requirements/)
 6. [How To Write Great Software Requirements Specification?](https://reqtest.com/requirements-blog/software-requirements-specification/)
 7. [7 Tips to Write Better User Stories](https://reqtest.com/agile-blog/better-user-stories/)
+
+## <img height="24" width="24" src="https://cdn.iconfinder.com/stored_data/903174/128/png?token=1678047850-oZKHY0Ut%2B6FMlwA5nszAtK%2BXHEqRGyp4karvSyPUI3Q%3D" /> Software Design
+
+1. [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+2. [What are cross-cutting concerns?](https://www.oreilly.com/library/view/spring-5-design/9781788299459/017d98ec-cf32-4df1-b2c1-eceb06bd4985.xhtml)
+3. [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
