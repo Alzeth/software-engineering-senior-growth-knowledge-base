@@ -223,3 +223,13 @@ All you need to know to become a Senior Software Engineer in JavaScript
 4. [Design Patterns JS](https://github.com/fbeline/design-patterns-JS/blob/master/docs.md)
 5. [SOLID Design Principles Explained](https://stackify.com/solid-design-principles/)
 6. [Relation between CommonJS, AMD and RequireJS?](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/COMMONJS-vs-AMD-vs-REQUIREJS.md)
+
+## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-1024.png" /> CI/CD/Git
+
+1. [Comparing Git Workflows: What You Should Know](https://www.atlassian.com/git/tutorials/comparing-workflows)
+2. [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=The%20overall%20flow%20of%20Gitflow,branch%20is%20created%20from%20master&text=When%20a%20feature%20is%20complete%20it%20is%20merged%20into%20the,branch%20is%20created%20from%20master)
+3. [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+4. [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+5. [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+6. [Continuous integration vs. delivery vs. deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+7. [Deployment and release strategies](https://docs.launchdarkly.com/guides/infrastructure/deployment-strategies)
