@@ -249,3 +249,14 @@ All you need to know to become a Senior Software Engineer in JavaScript
 1. [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 2. [What are cross-cutting concerns?](https://www.oreilly.com/library/view/spring-5-design/9781788299459/017d98ec-cf32-4df1-b2c1-eceb06bd4985.xhtml)
 3. [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
+
+## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/charming-boutique-icon-set/512/guarantee.png" /> Code quality
+
+1. [How to Measure Code Quality: 7 Metrics Every Engineer Should Know](https://medium.com/geekculture/how-to-measure-code-quality-9-metrics-every-engineer-should-know-9c0c607bef10)
+2. [F.I.R.S.T principles of testing](https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6)
+3. [Unit Testing and the Arrange, Act and Assert (AAA) Pattern](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
+4. [Integration Testing: What is, Types with Example](https://www.guru99.com/integration-testing.html)
+5. [Improving your testing code coverage in Javascript](https://makinhs.medium.com/improving-your-testing-code-coverage-in-javascript-f3c9be8c868b)
+6. [Snapshot Testing: Benefits and Drawbacks](https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks)
+7. [TechnicalDebtQuadrant](https://www.martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+8. [Code Smells](https://refactoring.guru/refactoring/smells)
