@@ -269,13 +269,13 @@ All you need to know to become a Senior Software Engineer in JavaScript
 2. [What Are the Best Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
 3. [6 Stages Of The Software Development Life Cycle (SDLC)](https://theproductmanager.com/topics/software-development-life-cycle/)
 
-## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/process-1024.png" /> JavaScript Development Tools
+## <img height="24" width="24" src="https://cdn2.iconfinder.com/data/icons/tools-flat-v-1-free/129/toolbox-1024.png" /> JavaScript Development Tools
 
 1. [CI/CD Pipeline – Learn how to Setup a CI/CD Pipeline from Scratch](https://www.edureka.co/blog/ci-cd-pipeline/)
 2. [Yarn vs NPM: A Comprehensive Comparison](https://phoenixnap.com/kb/yarn-vs-npm)
 3. [esbuild Docs](https://esbuild.github.io/getting-started/)
 
-## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/process-1024.png" /> Responsive Design
+## <img height="24" width="24" src="https://cdn0.iconfinder.com/data/icons/website-design-4/467/Lcd_With_Tablet_and_mobile_icon-1024.png" /> Responsive Design
 
 1. [Progressive Enhancement vs Graceful Degradation](https://www.mavenecommerce.com/2017/10/31/progressive-enhancement-vs-graceful-degradation/)
 2. [How Mobile-First Web Design Is Different From Adaptive and Responsive](https://medium.com/@Cleveroad/how-mobile-first-web-design-is-different-from-adaptive-and-responsive-c5a86ef3d4a4)
