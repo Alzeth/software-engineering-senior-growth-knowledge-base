@@ -262,4 +262,8 @@ All you need to know to become a Senior Software Engineer in JavaScript
 7. [TechnicalDebtQuadrant](https://www.martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 8. [Code Smells](https://refactoring.guru/refactoring/smells)
 9. [8 Practices to Ensure Better Code Quality](https://blog.bitsrc.io/8-practices-to-ensure-better-code-quality-fcd0c2197940)
-10. 
+
+## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/process-1024.png" /> Software Engineering Processes
+
+1. [8 Best Software Development Methodologies](https://www.uptech.team/blog/software-development-methodologies)
+2. [What Are the Best Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
