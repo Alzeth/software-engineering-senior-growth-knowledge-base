@@ -233,6 +233,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 5. [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 6. [Continuous integration vs. delivery vs. deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 7. [Deployment and release strategies](https://docs.launchdarkly.com/guides/infrastructure/deployment-strategies)
+8. [Git Hooks](https://githooks.com/)
 
 ## <img height="24" width="24" src="https://cdn2.iconfinder.com/data/icons/free-simple-line-mix/48/13-Wall-1024.png" /> Architecture
 
@@ -260,3 +261,5 @@ All you need to know to become a Senior Software Engineer in JavaScript
 6. [Snapshot Testing: Benefits and Drawbacks](https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks)
 7. [TechnicalDebtQuadrant](https://www.martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 8. [Code Smells](https://refactoring.guru/refactoring/smells)
+9. [8 Practices to Ensure Better Code Quality](https://blog.bitsrc.io/8-practices-to-ensure-better-code-quality-fcd0c2197940)
+10. 
