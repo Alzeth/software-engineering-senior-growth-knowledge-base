@@ -3,6 +3,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 
 
 ## <img height="24" width="24" src="https://cdn0.iconfinder.com/data/icons/coding-33/24/guide_syllabus_book_source_code_source_code_knowledge_slash_programming_software-1024.png" /> Software Engineering Knowledge & Experience
+
 1. [Data structures](https://www.geeksforgeeks.org/data-structures/)
 2. [Containerization vs. Virtualization: What's the Difference?](https://www.burwood.com/blog-archive/containerization-vs-virtualization)
 3. [Virtualization technologies compared](https://www.computerworld.com/article/2528781/virtualization-technologies-compared.html)
@@ -10,6 +11,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 5. [Best Application Deployment Strategies in 2023](https://www.techmagic.co/blog/best-application-deployment-strategies/)
 
 ## :desktop_computer: Computer Science
+
 1. [Currying](https://javascript.info/currying-partials)
 2. [Lodash _.curry() Method](https://www.geeksforgeeks.org/lodash-_-curry-method/)
 3. [Discover the power of first class functions](https://www.freecodecamp.org/news/discover-the-power-of-first-class-functions-fd0d7b599b69/#:~:text=In%20JavaScript%2C%20functions%20are%20first,returned%20from%20a%20function)
@@ -20,6 +22,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 8. [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 
 ## :repeat: Communication protocols
+
 1. [What Happens When You Type in a URL](https://wsvincent.com/what-happens-when-url/)
 2. [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
 3. [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
@@ -87,27 +90,28 @@ All you need to know to become a Senior Software Engineer in JavaScript
 
 ## :chart_with_upwards_trend: Performance Optimizations
 
-1. [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist)
-2. [How browsers work](https://web.dev/howbrowserswork/)
-3. [Web browsers Series' Articles](https://dev.to/arikaturika/series/17842)
-4. [Web Vitals](https://web.dev/vitals/)
-5. [First Contentful Paint (FCP)](https://web.dev/i18n/en/fcp/)
-6. [Largest Contentful Paint (LCP)](https://web.dev/i18n/en/lcp/)
-7. [First Input Delay (FID)](https://web.dev/i18n/en/fid/)
-8. [Time to Interactive (TTI)](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive)
-9. [Cumulative Layout Shift (CLS)](https://web.dev/i18n/en/cls/)
-10. [RAIL](https://developer.mozilla.org/en-US/docs/Glossary/RAIL)
-11. [DOM Performance (Reflow & Repaint) (Summary)](https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5)
-12. [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
-13. [V8 Hidden class](https://engineering.linecorp.com/en/blog/v8-hidden-class/)
-14. [Service worker overview](https://developer.chrome.com/docs/workbox/service-worker-overview/)
-15. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-16. [How To Use Chrome UX Report To Improve Your Site Performance](https://www.searchenginejournal.com/chrome-ux-report-tips/457497/)
-17. [Window.requestAnimationFrame()](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
-18. [JavaScript Profiling With The Chrome Developer Tools](https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/)
-19. [How to Break Up an Expensive Computation Task in JavaScript](https://javascript.plainenglish.io/how-to-break-up-an-expensive-computation-task-in-javascript-446801d646ca)
-20. [Synthetic vs. Real-User Monitoring: How to Improve Your Customer Experience](https://newrelic.com/blog/best-practices/synthetic-versus-real-user-monitoring)
-21. [Before You memo()](https://overreacted.io/before-you-memo/)
+1. [https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
+2. [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist)
+3. [How browsers work](https://web.dev/howbrowserswork/)
+4. [Web browsers Series' Articles](https://dev.to/arikaturika/series/17842)
+5. [Web Vitals](https://web.dev/vitals/)
+6. [First Contentful Paint (FCP)](https://web.dev/i18n/en/fcp/)
+7. [Largest Contentful Paint (LCP)](https://web.dev/i18n/en/lcp/)
+8. [First Input Delay (FID)](https://web.dev/i18n/en/fid/)
+9. [Time to Interactive (TTI)](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive)
+10. [Cumulative Layout Shift (CLS)](https://web.dev/i18n/en/cls/)
+11. [RAIL](https://developer.mozilla.org/en-US/docs/Glossary/RAIL)
+12. [DOM Performance (Reflow & Repaint) (Summary)](https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5)
+13. [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+14. [V8 Hidden class](https://engineering.linecorp.com/en/blog/v8-hidden-class/)
+15. [Service worker overview](https://developer.chrome.com/docs/workbox/service-worker-overview/)
+16. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+17. [How To Use Chrome UX Report To Improve Your Site Performance](https://www.searchenginejournal.com/chrome-ux-report-tips/457497/)
+18. [Window.requestAnimationFrame()](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+19. [JavaScript Profiling With The Chrome Developer Tools](https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/)
+20. [How to Break Up an Expensive Computation Task in JavaScript](https://javascript.plainenglish.io/how-to-break-up-an-expensive-computation-task-in-javascript-446801d646ca)
+21. [Synthetic vs. Real-User Monitoring: How to Improve Your Customer Experience](https://newrelic.com/blog/best-practices/synthetic-versus-real-user-monitoring)
+22. [Before You memo()](https://overreacted.io/before-you-memo/)
 
 ## :toolbox: Browser APIs
 
@@ -125,22 +129,23 @@ All you need to know to become a Senior Software Engineer in JavaScript
 
 ## <img height="24" width="24" src="https://cdn.simpleicons.org/javascript" /> JavaScript Advanced
 
-1. [Objects — Writable, Configurable & Enumerable](https://medium.com/@ayusharma.in/objects-writable-configurable-enumerable-365cdff6a408)
-2. [Property flags and descriptors](https://javascript.info/property-descriptors)
-3. [JavaScript Constructor Function](https://www.programiz.com/javascript/constructor-function)
-4. [Property getters and setters](https://javascript.info/property-accessors)
-5. [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://javascript.plainenglish.io/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
-6. [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-7. [A deep dive into ES6 Classes](https://dev.to/mustapha/a-deep-dive-into-es6-classes-2h52)
-8. [Novice to Advanced RegEx in Nine Minutes or Less](https://towardsdatascience.com/novice-to-advanced-regex-in-nine-minutes-or-less-6af45a1df8c8)
-9. [Binding Arguments with Bind](https://davidwalsh.name/bind-arguments)
-10. [JavaScript patterns](https://github.com/shichuan/javascript-patterns)
-11. [Using Method Chaining With The Revealing Module Pattern In JavaScript](https://www.bennadel.com/blog/2798-using-method-chaining-with-the-revealing-module-pattern-in-javascript.htm)
-12. [Currying in JavaScript](https://dev.to/cglikpo/currying-in-javascript-1jke)
-13. [Recursion vs Iteration](https://pages.cs.wisc.edu/~vernon/cs367/notes/6.RECURSION.html#iter)
-14. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
-15. [How To Write Fast, Memory-Efficient JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
-16. [Memorization in JavaScript](https://medium.com/@saravanaeswari22/memorization-in-javascript-f312d66402b2)
+1. [The event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+2. [Objects — Writable, Configurable & Enumerable](https://medium.com/@ayusharma.in/objects-writable-configurable-enumerable-365cdff6a408)
+3. [Property flags and descriptors](https://javascript.info/property-descriptors)
+4. [JavaScript Constructor Function](https://www.programiz.com/javascript/constructor-function)
+5. [Property getters and setters](https://javascript.info/property-accessors)
+6. [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://javascript.plainenglish.io/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
+7. [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+8. [A deep dive into ES6 Classes](https://dev.to/mustapha/a-deep-dive-into-es6-classes-2h52)
+9. [Novice to Advanced RegEx in Nine Minutes or Less](https://towardsdatascience.com/novice-to-advanced-regex-in-nine-minutes-or-less-6af45a1df8c8)
+10. [Binding Arguments with Bind](https://davidwalsh.name/bind-arguments)
+11. [JavaScript patterns](https://github.com/shichuan/javascript-patterns)
+12. [Using Method Chaining With The Revealing Module Pattern In JavaScript](https://www.bennadel.com/blog/2798-using-method-chaining-with-the-revealing-module-pattern-in-javascript.htm)
+13. [Currying in JavaScript](https://dev.to/cglikpo/currying-in-javascript-1jke)
+14. [Recursion vs Iteration](https://pages.cs.wisc.edu/~vernon/cs367/notes/6.RECURSION.html#iter)
+15. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+16. [How To Write Fast, Memory-Efficient JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
+17. [Memorization in JavaScript](https://medium.com/@saravanaeswari22/memorization-in-javascript-f312d66402b2)
 
 ## <img height="24" width="24" src="https://cdn.simpleicons.org/typescript" /> TypeScript
 
