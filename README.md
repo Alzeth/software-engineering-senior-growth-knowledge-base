@@ -264,9 +264,14 @@ All you need to know to become a Senior Software Engineer in JavaScript
 4. [Integration Testing: What is, Types with Example](https://www.guru99.com/integration-testing.html)
 5. [Improving your testing code coverage in Javascript](https://makinhs.medium.com/improving-your-testing-code-coverage-in-javascript-f3c9be8c868b)
 6. [Snapshot Testing: Benefits and Drawbacks](https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks)
-7. [TechnicalDebtQuadrant](https://www.martinfowler.com/bliki/TechnicalDebtQuadrant.html)
-8. [Code Smells](https://refactoring.guru/refactoring/smells)
-9. [8 Practices to Ensure Better Code Quality](https://blog.bitsrc.io/8-practices-to-ensure-better-code-quality-fcd0c2197940)
+7. [Technical Debt](https://www.productplan.com/glossary/technical-debt/)
+8. [TechnicalDebtQuadrant](https://www.martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+9. [7 Top Metrics for Measuring Your Technical Debt](https://dev.to/alexomeyer/8-top-metrics-for-measuring-your-technical-debt-5bnm)
+10. [Code Smells](https://refactoring.guru/refactoring/smells)
+11. [Everything you need to know about Code Smells](https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-smells/)
+12. [8 Practices to Ensure Better Code Quality](https://blog.bitsrc.io/8-practices-to-ensure-better-code-quality-fcd0c2197940)
+13. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+14. [Test Coverage in Software Testing](https://www.guru99.com/test-coverage-in-software-testing.html)
 
 ## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/process-1024.png" /> Software Engineering Processes
 
@@ -285,3 +290,11 @@ All you need to know to become a Senior Software Engineer in JavaScript
 1. [Progressive Enhancement vs Graceful Degradation](https://www.mavenecommerce.com/2017/10/31/progressive-enhancement-vs-graceful-degradation/)
 2. [How Mobile-First Web Design Is Different From Adaptive and Responsive](https://medium.com/@Cleveroad/how-mobile-first-web-design-is-different-from-adaptive-and-responsive-c5a86ef3d4a4)
 3. [How is mobile-first web design different from adaptive and responsive design?](https://www.peppersquare.com/blog/how-is-mobile-first-web-design-different-from-adaptive-and-responsive-design/)
+
+## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/office-186/64/3_soft_skills_communication_business_office_corporation_job-1024.png" /> soft Skills
+
+1. [A Simple Guide to Delegation for Devs](https://www.jobsity.com/blog/a-simple-guide-to-delegation-for-devs)
+
+
+
+[Alternative guide of computer science knowledge related to the Front-end](https://github.com/alexanderteplov/computer-science/wiki)
