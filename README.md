@@ -278,6 +278,8 @@ All you need to know to become a Senior Software Engineer in JavaScript
 1. [8 Best Software Development Methodologies](https://www.uptech.team/blog/software-development-methodologies)
 2. [What Are the Best Git Branching Strategies](https://www.flagship.io/git-branching-strategies/)
 3. [6 Stages Of The Software Development Life Cycle (SDLC)](https://theproductmanager.com/topics/software-development-life-cycle/)
+4. [Top 8 Agile Estimation Techniques (Explained with Examples)](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/#3-t-shirt-size-estimation)
+5. [10 reasons why you should use story points](https://www.easyagile.com/blog/10-reasons-to-use-story-points/)
 
 ## <img height="24" width="24" src="https://cdn2.iconfinder.com/data/icons/tools-flat-v-1-free/129/toolbox-1024.png" /> JavaScript Development Tools
 
@@ -298,3 +300,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 
 
 [Alternative guide of computer science knowledge related to the Front-end](https://github.com/alexanderteplov/computer-science/wiki)
+
+
+Front-end Trends 2023
+![image](https://user-images.githubusercontent.com/17500021/226768623-29afbac5-277a-48ab-907b-25ffb1ff29e5.png)
