@@ -293,7 +293,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 2. [How Mobile-First Web Design Is Different From Adaptive and Responsive](https://medium.com/@Cleveroad/how-mobile-first-web-design-is-different-from-adaptive-and-responsive-c5a86ef3d4a4)
 3. [How is mobile-first web design different from adaptive and responsive design?](https://www.peppersquare.com/blog/how-is-mobile-first-web-design-different-from-adaptive-and-responsive-design/)
 
-## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/office-186/64/3_soft_skills_communication_business_office_corporation_job-1024.png" /> soft Skills
+## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/office-186/64/3_soft_skills_communication_business_office_corporation_job-1024.png" /> Soft Skills
 
 1. [A Simple Guide to Delegation for Devs](https://www.jobsity.com/blog/a-simple-guide-to-delegation-for-devs)
 
