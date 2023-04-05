@@ -59,6 +59,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 3. [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 4. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 5. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+6. [Totality](https://kowainik.github.io/posts/totality)
 
 ## :closed_lock_with_key: Security
 
@@ -77,6 +78,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 13. [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
 14. [Stateful and stateless authentication](https://medium.com/@kennch/stateful-and-stateless-authentication-10aa3e3d4986)
 15. [Costs and benefits of authentication](https://www.miteksystems.com/blog/costs-and-benefits-of-authentication)
+16. [AJAX Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
 
 ## :keyboard: Accessibility
 
@@ -228,6 +230,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 4. [Design Patterns JS](https://github.com/fbeline/design-patterns-JS/blob/master/docs.md)
 5. [SOLID Design Principles Explained](https://stackify.com/solid-design-principles/)
 6. [Relation between CommonJS, AMD and RequireJS?](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/COMMONJS-vs-AMD-vs-REQUIREJS.md)
+7. [Single Responsibility Principle](https://www.toptal.com/software/single-responsibility-principle)
 
 ## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-1024.png" /> CI/CD/Git
 
@@ -272,6 +275,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 12. [8 Practices to Ensure Better Code Quality](https://blog.bitsrc.io/8-practices-to-ensure-better-code-quality-fcd0c2197940)
 13. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 14. [Test Coverage in Software Testing](https://www.guru99.com/test-coverage-in-software-testing.html)
+15. [What is a code review?](https://about.gitlab.com/topics/version-control/what-is-code-review/#:~:text=Code%20reviews%2C%20also%20known%20as,developers%20learn%20the%20source%20code.)
 
 ## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/process-1024.png" /> Software Engineering Processes
 
@@ -286,6 +290,8 @@ All you need to know to become a Senior Software Engineer in JavaScript
 1. [CI/CD Pipeline – Learn how to Setup a CI/CD Pipeline from Scratch](https://www.edureka.co/blog/ci-cd-pipeline/)
 2. [Yarn vs NPM: A Comprehensive Comparison](https://phoenixnap.com/kb/yarn-vs-npm)
 3. [esbuild Docs](https://esbuild.github.io/getting-started/)
+4. [Running cross-platform tasks via npm package scripts](https://exploringjs.com/nodejs-shell-scripting/ch_package-scripts.html)
+5. [What's New in DevTools](https://developer.chrome.com/blog/new-in-devtools-64/#whats-new)
 
 ## <img height="24" width="24" src="https://cdn0.iconfinder.com/data/icons/website-design-4/467/Lcd_With_Tablet_and_mobile_icon-1024.png" /> Responsive Design
 
@@ -296,6 +302,8 @@ All you need to know to become a Senior Software Engineer in JavaScript
 ## <img height="24" width="24" src="https://cdn3.iconfinder.com/data/icons/office-186/64/3_soft_skills_communication_business_office_corporation_job-1024.png" /> Soft Skills
 
 1. [A Simple Guide to Delegation for Devs](https://www.jobsity.com/blog/a-simple-guide-to-delegation-for-devs)
+2. [The Definition of Done](https://www.productplan.com/learn/agile-definition-of-done/)
+3. [Definition of Done, или кто за что отвечает](https://dou.ua/lenta/articles/definition-of-done/)
 
 
 
