@@ -221,6 +221,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 12. [CSS Methodologies rankings](https://2020.stateofcss.com/en-US/technologies/methodologies/)
 13. [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
 14. [5 Methodologies for Architecting CSS](https://www.valoremreply.com/post/5_css_methodologies/)
+15. [Popular CSS methodologies for scaling web projects](https://www.arekibo.com/blog/popular-css-methodologies-for-scaling-web-projects/)
 
 ## <img height="24" width="24" src="https://cdn1.iconfinder.com/data/icons/business-456/500/processing-1024.png" /> Design Patterns
 
