@@ -285,6 +285,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 3. [6 Stages Of The Software Development Life Cycle (SDLC)](https://theproductmanager.com/topics/software-development-life-cycle/)
 4. [Top 8 Agile Estimation Techniques (Explained with Examples)](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/#3-t-shirt-size-estimation)
 5. [10 reasons why you should use story points](https://www.easyagile.com/blog/10-reasons-to-use-story-points/)
+6. [Scrum vs Kanban – Difference Between Them](https://www.guru99.com/scrum-vs-kanban.html)
 
 ## <img height="24" width="24" src="https://cdn2.iconfinder.com/data/icons/tools-flat-v-1-free/129/toolbox-1024.png" /> JavaScript Development Tools
 
