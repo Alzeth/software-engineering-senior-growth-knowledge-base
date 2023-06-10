@@ -243,6 +243,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 6. [Continuous integration vs. delivery vs. deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 7. [Deployment and release strategies](https://docs.launchdarkly.com/guides/infrastructure/deployment-strategies)
 8. [Git Hooks](https://githooks.com/)
+9. [GIT branching strategies](https://github.com/Alzeth/software-engineering-senior-growth-knowledge-base/blob/main/GIT-BRANCHING-STRATEGIES.md)
 
 ## <img height="24" width="24" src="https://cdn2.iconfinder.com/data/icons/free-simple-line-mix/48/13-Wall-1024.png" /> Architecture
 
