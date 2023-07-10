@@ -60,6 +60,7 @@ All you need to know to become a Senior Software Engineer in JavaScript
 4. [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 5. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 6. [Totality](https://kowainik.github.io/posts/totality)
+7. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ## :closed_lock_with_key: Security
 
